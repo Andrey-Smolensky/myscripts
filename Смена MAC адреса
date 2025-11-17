@@ -3,3 +3,10 @@ ifconfig eth0 hw ether 00:11:22:33:44:55
 ifconfig eth0 up
 
 ifconfig
+
+
+
+windows
+https://technitium.com/tmac/
+Technitium MAC Address Changer
+
